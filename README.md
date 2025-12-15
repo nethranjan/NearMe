@@ -85,6 +85,7 @@ Execute the programs and publish them.
 ```
 
 ### mall.html
+```
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -100,6 +101,7 @@ Execute the programs and publish them.
 ```
 
 ### museum.html
+```
 <!DOCTYPE html>
 <html lang="en">
 <head>
